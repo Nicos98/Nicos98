@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicos98
-- 👀 I’m interested in programming, 3d printer, cars and downhill
+- 👀 I’m interested in programming, 3d printer and cars
 - 💞️ I work in a rolling mill factory as production manager
 
 <!---
