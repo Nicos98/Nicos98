@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nicos98
+- 👋 Hi, I’m Nicolò
 - 👀 I’m interested in programming, 3d printer and cars
 - 💞️ I work in a rolling mill factory as production manager
 
